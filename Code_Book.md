@@ -15,7 +15,7 @@ The raw data for the course project was obtained from https://d396qusza40orc.clo
 9. Avg of each variable for each subject and activity was computed using melt and dcast function from reshape2 package.
 10. Tidy dataset was written as a text file and named Activity_Subject_Avg.txt.
 
-## Final File Explanation
+## Final File Description
 
 1. File name features_info describes the measurements taken.
 2. ActivityType is descriptive label of activity
