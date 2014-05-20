@@ -13,7 +13,7 @@ The raw data for the course project was obtained from https://d396qusza40orc.clo
 7. Multiple joins using labels,activity and measurements was carried out.
 8. ActivityType and ActivityID were combined.
 9. Avg of each variable for each subject and activity was computed using melt and dcast function from reshape2 package.
-10. Tidy dataset was written as a text file and named Activity_Subject_Avg.txt.
+10. Tidy dataset was written as a text file and named ActivityType_Subject_Avg.txt.
 
 ## Final File Description
 
